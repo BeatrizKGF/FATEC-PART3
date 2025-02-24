@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fujii\\source\\repos\\FATEC 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A794E1-1514-40A3-A90B-4AD44A2E328F}|Ex 2\\Ex 2.csproj|c:\\users\\fujii\\source\\repos\\fatec 3\\ex 2\\ex 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A794E1-1514-40A3-A90B-4AD44A2E328F}|Ex 2\\Ex 2.csproj|solutionrelative:ex 2\\ex 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CED307-DF6B-44BC-B10D-BDD30819951B}|FATEC 3\\Ex 1.csproj|c:\\users\\fujii\\source\\repos\\fatec 3\\fatec 3\\ex 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CED307-DF6B-44BC-B10D-BDD30819951B}|FATEC 3\\Ex 1.csproj|solutionrelative:fatec 3\\ex 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex 2.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC 3\\Ex 2\\Ex 2.cs",
+              "RelativeDocumentMoniker": "Ex 2\\Ex 2.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC 3\\Ex 2\\Ex 2.cs",
+              "RelativeToolTip": "Ex 2\\Ex 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:14:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex 1.cs",
+              "DocumentMoniker": "C:\\Users\\fujii\\source\\repos\\FATEC 3\\FATEC 3\\Ex 1.cs",
+              "RelativeDocumentMoniker": "FATEC 3\\Ex 1.cs",
+              "ToolTip": "C:\\Users\\fujii\\source\\repos\\FATEC 3\\FATEC 3\\Ex 1.cs",
+              "RelativeToolTip": "FATEC 3\\Ex 1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:28:56.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
